@@ -2,7 +2,7 @@ arpspoofForWindows
 =============
 arpspoof for windows
 
-Option:
+Option
 ----------
 ```
 -a network domin, format: IP/slash, Ex: 192.168.1.0/24
